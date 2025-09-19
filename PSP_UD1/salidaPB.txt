@@ -1,0 +1,17 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 1828-620C
+
+ Directorio de C:\Users\149FA03\IdeaProjects\PSP_UD1
+
+18/09/2025  19:38    <DIR>          .
+18/09/2025  21:17    <DIR>          ..
+12/09/2025  18:36               344 .gitignore
+19/09/2025  18:36    <DIR>          .idea
+18/09/2025  19:38                98 errores.txt
+12/09/2025  18:45    <DIR>          out
+12/09/2025  18:45               433 PSP_UD1.iml
+19/09/2025  18:37                 0 salidaPB.txt
+12/09/2025  20:01                 0 salidaruntime.txt
+18/09/2025  19:39    <DIR>          src
+               5 archivos            875 bytes
+               5 dirs  534.973.444.096 bytes libres
