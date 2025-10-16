@@ -1,3 +1,5 @@
+package Monitores.Ej2;
+
 public class Restaurante {
 
     private int mesasDisponibles =5;

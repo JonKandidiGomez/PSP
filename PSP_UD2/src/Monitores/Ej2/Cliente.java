@@ -1,5 +1,8 @@
+package Monitores.Ej2;
+
 public class Cliente implements Runnable {
-    private final Restaurante restaurante;
+
+    private Restaurante restaurante;
     private final int idCliente;
 
     public Cliente(Restaurante restaurante, int idCliente) {

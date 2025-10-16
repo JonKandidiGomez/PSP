@@ -1,3 +1,5 @@
+package Monitores.Ej1;
+
 public class Main {
     static final int NUMVECES = 5;
     public static final int NUMHILOS = 5;
